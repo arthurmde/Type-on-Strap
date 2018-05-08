@@ -1,39 +1,39 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+#baseurl: "/Type-on-Strap"
 url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
-
+title: Arthur Del Esposte # site's title
+description: "Arthur Del Esposte's website and blog" # used by search engines
+timezone: America/Sao_Paulo
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Arthur Del Esposte # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar: arthurmde@gmail.com
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>May the force be with you!</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: arthurmde@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  gitlab:
-  github: "sylhare"
+  gitlab: 'arthurmde'
+  github: "arthurmde"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin: https://www.linkedin.com/in/arthur-del-esposte-97126689/ # Full URL
   pinterest:
   reddit:
   soundcloud:
