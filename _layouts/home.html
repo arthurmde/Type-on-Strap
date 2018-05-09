@@ -13,11 +13,6 @@ layout: default
   <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser">
-      {% if post.thumbnail %} 
-      <div class="post-img">
-         <img src="{{ site.baseurl }}/{{ post.thumbnail }}">
-      </div>
-      {% endif %}
       <span>
           <header>
             <h1>
@@ -29,6 +24,11 @@ layout: default
               {{ post.date | date: "%B %-d, %Y" }}
             </p>
           </header>
+          {% if post.thumbnail %}
+          <div class="post-img">
+            <img src="{{ site.baseurl }}/{{ post.thumbnail }}">
+          </div>
+          {% endif %}
           <div class="excerpt">
               {{ post.excerpt | strip_html | escape }}
             <!--{{ post.content | strip_html | truncate: "250" }}-->
