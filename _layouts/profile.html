@@ -1,0 +1,36 @@
+---
+layout: bootstrap
+---
+    <section class="profile-content">
+      <div class='row'>
+        <center>
+        <img src="{{ site.baseurl }}/{{ page.profile-img }}" name="aboutme" height="240" class="img-responsive img-rounded profile-image">
+        <br>
+        <h3 class="media-heading">{{ page.profile-name }}</h3>
+          </center>
+      </div>
+      <div class='row'>
+        {% if page.profile-location %}
+          <center>
+          <span><strong>{{ page.profile-location }}</strong></span>
+          <hr>
+          </center>
+        {% endif %}
+      </div>
+      <div class='row'>
+        <center>
+        {% for item in page.profile-highlights %}
+          <span class='label label-primary'>{{ item }}</span>
+          {% endfor %}
+        </center>
+      </div>
+      <hr>
+      <div class="about-content">
+        {{ content }}
+      </div>
+    </section>
+
+
+  <!-- Tag list for portfolio -->
+  {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
+  {% include tags_list.html tags=tag_list %}

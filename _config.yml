@@ -15,8 +15,12 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>May the force be with you!</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+    <p>
+    "It's not where you're born, It's not where you belong<br>
+    It's not how weak, But what will make you strong"<br>
+    <i>Summer Rain by U2</i>
+    </p>
+  header_text_feature_image: assets/img/pexels/landscape-1.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
