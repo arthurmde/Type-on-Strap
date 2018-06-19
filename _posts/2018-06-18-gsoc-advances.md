@@ -51,7 +51,7 @@ over 6 pages. In this sense, [I created a new search field with auto-complete](h
 on the top of teams page to enable users to find a team's page faster, as show
 in the following figure:
 
-![Search Field for Teams Page]({{ "/assets/img/screenshots/distro-tracker-team-search.png" | absolute_url }})
+![Search Field for Teams Page]({{ "/assets/img/screenshots/distro-tracker-team-search.png" }})
 
 Also, I have been working on improving the current teams infrastructure
 to enable Debian's teams to better track the health of their packages.
@@ -88,7 +88,7 @@ and our current implementation.
 
 PET Packages Table         |  Distro Tracker Packages Table
 :-------------------------:|:-------------------------:
-[![PET Packages Table]({{ "/assets/img/screenshots/PET-data.png" | absolute_url }})]({{"/assets/img/screenshots/PET-data.png" | absolute_url}}) | [![Current Teams Page]({{ "/assets/img/screenshots/distro-tracker-team-page.png" | absolute_url }})]({{ "/assets/img/screenshots/distro-tracker-team-page.png" | absolute_url }})
+[![PET Packages Table]({{ "/assets/img/screenshots/PET-data.png" }})]({{"/assets/img/screenshots/PET-data.png" }}) | [![Current Teams Page]({{ "/assets/img/screenshots/distro-tracker-team-page.png" }})]({{ "/assets/img/screenshots/distro-tracker-team-page.png" }})
 
 
 Currently, the team's page only have one table, which displays all packages
@@ -118,7 +118,7 @@ a javascript library to display popovers. In this sense, some columns show
 a popover with more details regarding its content which is displayed on mouse
 hover. The following figure shows the popover to the *Package* column:
 
-![Package's Popover]({{ "/assets/img/screenshots/distro-tracker-package-popover.png" | absolute_url }}){: .center }
+![Package's Popover]({{ "/assets/img/screenshots/distro-tracker-package-popover.png" }}){: .center }
 
 In additional to designing the table framework, the main challenge
 were to avoid the [N+1 problem](https://secure.phabricator.com/book/phabcontrib/article/n_plus_one/)
@@ -200,7 +200,7 @@ Finally, it is worth noticing that we also improved the team's management
 page by moving all team management features to a single page and improving
 its visual structure:
 
-![Teams Management]({{ "/assets/img/screenshots/distro-tracker-team-management-page.png" | absolute_url }})
+![Teams Management]({{ "/assets/img/screenshots/distro-tracker-team-management-page.png" }})
 
 
 ## Next Steps
@@ -208,7 +208,7 @@ its visual structure:
 Now, we are moving towards adding other tables with different scopes, such
 as the tables presented by PET:
 
-![PET tables]({{ "/assets/img/screenshots/PET-tables.png" | absolute_url }})
+![PET tables]({{ "/assets/img/screenshots/PET-tables.png" }})
 
 To this end, we will introduce the *Tag* model class to categorize the packages
 based on their characteristics. Thus, we will create an additional task
