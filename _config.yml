@@ -1,9 +1,12 @@
 # SITE CONFIGURATION
 #baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+url: "https://arthurmde.github.io"
 title: Arthur Del Esposte # site's title
 description: "Arthur Del Esposte's website and blog" # used by search engines
 timezone: America/Sao_Paulo
+
+site:
+  url: "https://arthurmde.md"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -101,4 +104,4 @@ sass:
   style: :compressed
 plugins: [jekyll-paginate, jekyll-seo-tag]
 #theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
-exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png"]
+exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "vendor"]
