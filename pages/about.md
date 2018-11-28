@@ -7,28 +7,38 @@ profile-img: "assets/img/profile/profile-arthur-del-esposte.jpg"
 profile-name: Arthur de Moura Del Esposte
 profile-location: São Paulo - Brazil
 profile-highlights:
-- Software Engineer
-- Master's Student at USP
-- GSoC Student at Debian
+- Software Engineer at Peerdustry
+- MSc. in Computer Science at USP
+- Free Software Contributor
+- Ludus Member
 - Born in Muriaé - MG Brazil
 tags: [About]
 ---
 
-I am a Brazilian who lives in the magnificent city of São Paulo together
-with my beloved Ana Paula. I come from a traditional family from Minas Gerais,
-my home state, and everything I have built and learned has the light of
-my parents and my brother.
+Hi, my name is Arthur. I am a Brazilian Software Engineer who lives and works
+in the magnificent
+city of São Paulo together with my girlfriend Ana Paula. I was born at Muriaé
+- Minas Gerais, but I've lived in other 5 cities since then. More specifically,
+I lived a great period of my life in Brasilia between 2002 and 2015, where
+my parents, brother, and some great friends still live. My relatives live mostly
+in southeastern Brazil, especially in my home state, Minas Gerais.
 
-Besides that, I am a Software Engineer who loves hacking and learning
+Much because of this fate, traveling is something that fits me well since I can
+remember, and it is certainly one of the things I love to do. 
+
+Besides that, I love hacking and learning
 new things, especially in the context of free software, agile methods,
 systems design, and DevOps. I am also very passionate about music, movies,
 collecting, reading, traveling, and people!
+
+## Professional Life
 
 In 2014, I got my bachelor's degree in Software Engineering at
 [University of Brasilia (UnB)](http://www.unb.br/). 
 Currently, I am pursuing a master’s degree in Computer Science at the
 [Institute of Mathematics and Statistics at University of São Paulo (USP)](http://ime.usp.br/)
 and contributing to the Debian project as a GSoC student.
+
 
 ## My Relationship with Free Software
 
