@@ -7,28 +7,36 @@ profile-img: "assets/img/profile/profile-arthur-del-esposte.jpg"
 profile-name: Arthur de Moura Del Esposte
 profile-location: São Paulo - Brazil
 profile-highlights:
-- Software Engineer
-- Master's Student at USP
-- GSoC Student at Debian
+- Software Engineer at Peerdustry
+- MSc in Computer Science
+- Free Software Contributor
 - Born in Muriaé - MG Brazil
 tags: [About]
 ---
 
-I am a Brazilian who lives in the magnificent city of São Paulo together
-with my beloved Ana Paula. I come from a traditional family from Minas Gerais,
-my home state, and everything I have built and learned has the light of
-my parents and my brother.
-
-Besides that, I am a Software Engineer who loves hacking and learning
+I am a full-stack Software Engineer based on São Paulo who loves hacking and
+learning
 new things, especially in the context of free software, agile methods,
-systems design, and DevOps. I am also very passionate about music, movies,
-collecting, reading, traveling, and people!
+systems design, DevOps, and startups. Besides that, I am also very passionate
+about music, movies, collecting, reading, traveling, and people.
 
 In 2014, I got my bachelor's degree in Software Engineering at
-[University of Brasilia (UnB)](http://www.unb.br/). 
-Currently, I am pursuing a master’s degree in Computer Science at the
-[Institute of Mathematics and Statistics at University of São Paulo (USP)](http://ime.usp.br/)
-and contributing to the Debian project as a GSoC student.
+[University of Brasilia (UnB)](http://www.unb.br/). I have a MSc degree in 
+Computer Science from the
+[Institute of Mathematics and Statistics at University of São Paulo (USP)](http://ime.usp.br/),
+where I researched scalable architectures for developing Smart City middleware
+platforms. 
+I currently work for [Peerdustry](www.peerdustry.com), a technology startup that
+aims at increasing the competitiveness of Brazil's industrial sector through
+advanced information technology resources and shared economy principles.
+
+
+I started contributing free software in 2012, and since then I have had the
+opportunity to work on several interesting projects. However,
+my contributions have recently been limited to small patches since I've become
+a full-time engineer at Peerdustry. On the other hand, I have learned and
+experienced a lot about entrepreneurship, communication, team work,
+front-end development, and design of web applications.
 
 ## My Relationship with Free Software
 
@@ -47,13 +55,12 @@ specialized in the development of free web solutions. There I worked mainly
 contributing to the [Noosfero](http://noosfero.org/) project, a free web platform
 for social networks.
 
-During my master's degree, I have been developing the [InterSCity
+During my master's degree, I was the main developer of the [InterSCity
 platform](http://interscity.org/software/interscity-platform/), a
 microservices-based, cloud-native middleware for smart cities.
-More recently, I got my project accepted in Google Summer of Code to work
+In 2018 I got my project accepted in Google Summer of Code to work
 with Debian community, as described in [this post]({{ site.baseurl }}{% post_url
 2018-05-09-google-summer-of-code-2018 %}).
-
 
 ## Skills
 
