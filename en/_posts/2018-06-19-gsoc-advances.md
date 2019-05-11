@@ -16,7 +16,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-In the past month I have been working on my [GSoC project]({% post_url 2018-05-09-google-summer-of-code-2018 %})
+In the past month I have been working on my [GSoC project]({% post_url en/2018-05-09-google-summer-of-code-2018 %})
 in Debian's [Distro Tracker](http://tracker.debian.org).
 This project aims at designing and implementing new features in Distro Tracker 
 to better support Debian teams to track the health of their packages and to

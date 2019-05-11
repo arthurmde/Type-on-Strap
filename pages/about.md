@@ -60,7 +60,7 @@ platform](http://interscity.org/software/interscity-platform/), a
 microservices-based, cloud-native middleware for smart cities.
 In 2018 I got my project accepted in Google Summer of Code to work
 with Debian community, as described in [this post]({{ site.baseurl }}{% post_url
-2018-05-09-google-summer-of-code-2018 %}).
+en/2018-05-09-google-summer-of-code-2018 %}).
 
 ## Skills
 
@@ -76,7 +76,7 @@ frameworks. More precisely, Ruby is my primary programming language, and I have
 three years of experience with Ruby on Rails. Also, I’m fairly confident to work
 with Python and Django since I used them before in other projects and during the
 [GSoC program]({{ site.baseurl }}{% post_url
-2018-05-09-google-summer-of-code-2018 %}). Finally,
+en/2018-05-09-google-summer-of-code-2018 %}). Finally,
 as I became more familiar with microservices architecture, I’ve been working
 with DevOps tools such as Docker, Kubernetes, and Ansible.
 
