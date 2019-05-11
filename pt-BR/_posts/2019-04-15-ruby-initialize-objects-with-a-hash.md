@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Quick Note #1 - Initialize Ruby objects passing named arguments with a Hash"
+title: "Nota Rápida #1 - Inicializar objetos em Ruby passando argumentos nomeados com um Hash"
+lang-ref: ruby-initialize-objects-with-a-hash
+lang: pt-BR
 #feature-img: "assets/img/pexels/taipei-taiwan.jpeg"
 #thumbnail: "assets/img/thumbnails/taiwan-wall.png"
 categories:
@@ -14,18 +16,20 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-Since I started working as a full-time Software Engineer at Peerdustry
-I've been having a lot of trouble finding the time to do everything I wanted
-outside of my work hours. Consequently, I have contributed to FLOSS projects
-less often than I would like and I have not been able to write a single blog post
-this year. 
-However, I have had some progress recently in organizing my time.
-Regarding the writing habit, I will try a more minimalist approach to
-improve my frequency by writing short texts with some quick notes or tips
-that are useful to others and myself in the future. 
+Desde que eu comecei a trabalhar como Engenheiro de Software na Peerdustry,
+eu tenho tido muita dificuldade em encontrar tempo para fazer tudo que eu
+gostaria fora das minhas horas de trabalho. Consequentemente, eu tenho contribuído
+para projetos de software livre com uma frequência bem mais baixa do que eu
+gostaria e não consegui nem sequer escrever um artigo para este blog em 2019.
+Entretanto, tenho progredido recentemente na organização do meu tempo.
+Em relação à escrita, eu vou tentar uma abordagem mais minimalista para
+aumentar a frequência de escrita através da produção de textos mais curtos,
+com **notas rápidas** ou dicas pequenas que são úteis para mim e para outras
+pessoas.
 
-This is my first post where I apply this approach. It has a little tip
-about how to initialize your Ruby objects passing named arguments with a Hash.
+Esse é o meu primeiro artigo onde aplico essa abordagem. Ele contém uma pequena
+dica de como inicializar seus objetos de Ruby puro passando argumentos nomeados
+com um Hash.
 
 <!--more-->
 

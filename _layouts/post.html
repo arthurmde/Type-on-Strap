@@ -9,12 +9,28 @@ layout: default
     {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>
-  <section class="post-content">{{ content }}</section>
-   
+  <section class="post-content">
+    <p class="center">
+      {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% if posts.size == 0 %}
+        {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% endif %}
+      {% if posts.size > 1 %}
+      <em><b>{{ site.data.translations['different-language'][page.lang] }}:</b></em>
+        {% for t_post in posts %}
+          {% if t_post.lang != page.lang %}
+            <a href="{{ site.base-url }}{{ t_post.url }}">{{ site.data.languages[t_post.lang].icon }} {{ site.data.languages[t_post.lang].label }}</a>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </p>
+    {{ content }}
+  </section>
+
    <!-- Tag list -->
   {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
   {% include tags_list.html tags=tag_list %}
-    
+
 </article>
 
 <!-- Disqus -->

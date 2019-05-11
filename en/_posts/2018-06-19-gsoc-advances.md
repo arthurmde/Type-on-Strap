@@ -3,6 +3,8 @@ layout: post
 title: "GSoC Status Update - First Month"
 feature-img: "assets/img/pexels/american-football-team.jpg"
 thumbnail: "assets/img/thumbnails/american-football-team.jpg"
+lang-ref: gsoc-2018-2
+lang: en
 categories:
   - Hacking
   - FLOSS

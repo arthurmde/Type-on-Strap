@@ -3,6 +3,8 @@ layout: post
 title: "Google Summer of Code 2018"
 feature-img: "assets/img/pexels/debian-screen.png"
 thumbnail: "assets/img/thumbnails/debian-screen.png"
+lang-ref: gsoc-2018-1
+lang: en
 categories:
   - Hacking
   - FLOSS
