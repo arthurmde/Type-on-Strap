@@ -82,11 +82,18 @@ theme_settings:
 
   # Post navigation
   post_navigation: true
-  
+
+lang: 'en'
+languages: ["en", "pt-br"]
   
 # PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
+pagination:
+  enabled: true
+  per_page: 5
+  paginate_path: "/page/:num/"
+  collection: 'posts'
+  category: 'posts'
+  sort_reverse: true
 
 
 # PORTFOLIO
@@ -102,6 +109,6 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate, jekyll-seo-tag]
+plugins: [jekyll-paginate-v2, jekyll-seo-tag]
 #theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "vendor"]

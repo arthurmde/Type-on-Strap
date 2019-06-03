@@ -11,6 +11,7 @@ layout: post
 title: "Quick Note #1 - Initialize Ruby objects passing named arguments with a Hash"
 lang-ref: ruby-initialize-objects-with-a-hash
 lang: en
+locale: en
 #feature-img: "assets/img/pexels/taipei-taiwan.jpeg"
 #thumbnail: "assets/img/thumbnails/taiwan-wall.png"
 categories:
