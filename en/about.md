@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: About
-permalink: /about/
+#permalink: /about/
 #feature-img: "assets/img/pexels/circuit.jpeg"
 profile-img: "assets/img/profile/profile-arthur-del-esposte.jpg"
 profile-name: Arthur de Moura Del Esposte
@@ -12,6 +12,7 @@ profile-highlights:
 - Free Software Contributor
 - Born in Muriaé - MG Brazil
 tags: [About]
+lang: en
 ---
 
 I am a full-stack Software Engineer based on São Paulo who loves hacking and
