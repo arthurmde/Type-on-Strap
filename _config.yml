@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
 #baseurl: "/Type-on-Strap"
-url: "https://arthurmde.github.io"
+url: "https://arthurmde.me"
 title: Arthur Del Esposte # site's title
 description: "Arthur Del Esposte's website and blog" # used by search engines
 timezone: America/Sao_Paulo
 
 site:
-  url: "https://arthurmde.md"
+  url: "https://arthurmde.me"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
