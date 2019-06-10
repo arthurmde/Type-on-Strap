@@ -85,6 +85,9 @@ theme_settings:
 
 lang: 'en'
 languages: ["en", "pt-br"]
+languageNames:
+  en: English
+  pt-br: Português (BR)
   
 # PAGINATION
 pagination:

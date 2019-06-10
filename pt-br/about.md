@@ -12,7 +12,7 @@ profile-highlights:
 - Contribuidor de Software Livre
 - Eterno Aprendiz
 tags: [About]
-lang: pt-BR
+lang: pt-br
 ---
 
 Eu sou um Engenheiro de Software *full-stack* vivendo em São Paulo que ama
