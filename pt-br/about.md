@@ -10,12 +10,12 @@ profile-highlights:
 - Engenheiro de Software na Peerdustry
 - Mestre em Ciência da Computação
 - Contribuidor de Software Livre
-- Eterno Aprendiz
+- Full Stack
 tags: [About]
 locale: pt-br
 ---
 
-Eu sou um Engenheiro de Software *full-stack* vivendo em São Paulo que ama
+Eu sou um Engenheiro de Software *full stack* vivendo em São Paulo que ama
 hackear e aprender coisas novas, especialmente no contexto de software livre,
 métodos ágeis, *design* de sistemas, DevOps, e *startups*. Além disso, eu
 também sou apaixonado por música, filmes, colecionismo, leitura, viagem e
@@ -63,18 +63,18 @@ Durante o meu mestrado, eu fui o principal desenvolvedor do [InterSCity
 platform](http://interscity.org/software/interscity-platform/), uma plataforma
 em núvem baseada em microsserviços para Cidades Inteligentes.
 Em 2018 eu tive o meu projeto aceito no Google Summer of Code para trabalhar
-com a comunidade Debian, como descrito [nesse artigo]({{ site.baseurl }}{% post_url
+com a comunidade **Debian**, como descrito [nesse artigo]({{ site.baseurl }}{% post_url
 en/2018-05-09-google-summer-of-code-2018 %}).
 
 ## Habilidades
 
 Como consequência do meu treinamento e contribuições com projetos de software
-livre, eu desenvovi várias habilidades técnicas que incluém boas práticas
+livre, eu desenvovi várias habilidades técnicas que incluem boas práticas
 de Engenharia de Software, TDD, refatoração, *design* de sistemas, arquitetura
 de microsserviços, e DevOps.
 
 Eu trabalho com Linux e Git diariamente. Como a maior parte dos projetos que
-trabalhei são baseados em tecnologias Web, eu tem bastante familiaridade com
+trabalhei são baseados em tecnologias Web, eu tenho bastante familiaridade com
 HTML, CSS, Javascript, Material Design, Bootstrap, WebSocket e frameworks
 Web. Mais especificamente, Ruby é minha linguagem de programação favorita, e
 tenho uma experiância com Ruby on Rails considerável.

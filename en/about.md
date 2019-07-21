@@ -10,12 +10,12 @@ profile-highlights:
 - Software Engineer at Peerdustry
 - MSc in Computer Science
 - Free Software Contributor
-- Born in Muriaé - MG Brazil
+- Full Stack
 tags: [About]
 locale: en
 ---
 
-I am a full-stack Software Engineer based on São Paulo who loves hacking and
+I am a full stack Software Engineer based on São Paulo who loves hacking and
 learning
 new things, especially in the context of free software, agile methods,
 systems design, DevOps, and startups. Besides that, I am also very passionate
@@ -60,7 +60,7 @@ During my master's degree, I was the main developer of the [InterSCity
 platform](http://interscity.org/software/interscity-platform/), a
 microservices-based, cloud-native middleware for smart cities.
 In 2018 I got my project accepted in Google Summer of Code to work
-with Debian community, as described in [this post]({{ site.baseurl }}{% post_url
+with **Debian** community, as described in [this post]({{ site.baseurl }}{% post_url
 en/2018-05-09-google-summer-of-code-2018 %}).
 
 ## Skills
