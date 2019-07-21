@@ -11,15 +11,15 @@ layout: default
   </header>
   <section class="post-content">
     <p class="center">
-      {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'locale' %}
       {% if posts.size == 0 %}
-        {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+        {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'locale' %}
       {% endif %}
       {% if posts.size > 1 %}
-      <em><b>{{ site.data.translations['different-language'][page.lang] }}:</b></em>
+      <em><b>{{ site.data.translations['different-language'][page.locale] }}:</b></em>
         {% for t_post in posts %}
-          {% if t_post.lang != page.lang %}
-            <a href="{{ site.base-url }}{{ t_post.url }}">{{ site.data.languages[t_post.lang].icon }} {{ site.data.languages[t_post.lang].label }}</a>
+          {% if t_post.locale != page.locale %}
+            <a href="{{ site.base-url }}{{ t_post.url }}">{{ site.data.languages[t_post.locale].icon }} {{ site.data.languages[t_post.locale].label }}</a>
           {% endif %}
         {% endfor %}
       {% endif %}

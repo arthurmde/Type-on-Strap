@@ -2,7 +2,6 @@
 layout: post
 title: "Nota Rápida #1 - Inicializar objetos em Ruby passando argumentos nomeados com um Hash"
 lang-ref: ruby-initialize-objects-with-a-hash
-lang: pt-br
 locale: pt-br
 #feature-img: "assets/img/pexels/taipei-taiwan.jpeg"
 #thumbnail: "assets/img/thumbnails/taiwan-wall.png"

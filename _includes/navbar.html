@@ -2,12 +2,12 @@
 
     <!-- Logo and title -->
 	<div class="branding">
-    <a href="{{ site.baseurl }}/{{ page.lang }}">
+    <a href="{{ site.baseurl }}/{{ page.locale }}">
 			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
 		</a>
 
 		<h1 class="site-title">
-			<a href="{{ site.baseurl }}/{{ page.lang }}">{{ site.theme_settings.title }}</a>
+			<a href="{{ site.baseurl }}/{{ page.locale }}">{{ site.theme_settings.title }}</a>
 		</h1>
 	</div>
 
@@ -23,15 +23,15 @@
       <li>
         <!-- Language Switcher -->
         <div class="dropdown">
-          <button class="dropbtn">{{ site.data.languages[page.lang].icon }} {{ site.languageNames[page.lang] }}</button>
+          <button class="dropbtn">{{ site.data.languages[page.locale].icon }} {{ site.languageNames[page.locale] }}</button>
           <div class="dropdown-content">
-            {% for lang in site.languages %}
-              {% if page.lang == lang %}
+            {% for locale in site.languages %}
+              {% if page.locale == locale %}
                 {% assign class_name = 'active' %}
               {% else %}
                 {% assign class_name = '' %}
               {% endif %}
-              <a class="{{ class_name }}" href="{{ site.baseurl }}/{{ lang }}/">{{ site.languageNames[lang] }}</a>
+              <a class="{{ class_name }}" href="{{ site.baseurl }}/{{ locale }}/">{{ site.languageNames[locale] }}</a>
             {% endfor %}
           </div>
         </div>
@@ -39,7 +39,7 @@
       <!-- Auto Generation of NORMAL pages in the navbar -->
       {% assign name_page = "" %}
 
-      {% assign pages=site.pages | where:"lang", page.lang | sort: 'lang' %}
+      {% assign pages=site.pages | where:"locale", page.locale | sort: 'locale' %}
       {% for page in pages %}
       {% if page.title and page.hide != true %}
       {% if name_page contains page.title %}

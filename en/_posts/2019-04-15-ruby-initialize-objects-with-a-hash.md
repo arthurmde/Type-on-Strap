@@ -1,16 +1,7 @@
 ---
-#
-# @!attribute fee
-#   @return [Float]
-#   The quotation fee to be included in the final price
-#
-#   == Validations:
-#   - presence if status is one of the following: negotiation, accepted, or declined
-#   - greater_than_or_equal_to 0.0
 layout: post
 title: "Quick Note #1 - Initialize Ruby objects passing named arguments with a Hash"
 lang-ref: ruby-initialize-objects-with-a-hash
-lang: en
 locale: en
 #feature-img: "assets/img/pexels/taipei-taiwan.jpeg"
 #thumbnail: "assets/img/thumbnails/taiwan-wall.png"
