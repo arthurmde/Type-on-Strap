@@ -29,7 +29,7 @@ de verão do Brasil. Você pode ter percebido isso caso use
 o WhatsApp ou o Telegram em seu navegador.
 Na [Peerdustry](http://peerdustry.com), nós também
 enfrentamos um bug interessante em nossa plataforma, que chamamos carinhosamente
-de **Bug de Bolsonaro**, o qual merece ser discutido em mais detalhes.
+de **Bug do Bolsonaro**, o qual merece ser discutido em mais detalhes.
 
 <!--more-->
 
