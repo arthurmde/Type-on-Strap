@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The benefits of the "drink water and pee" routine'
-lang-ref: drink-water
+lang-ref: drink-water-and-pee
 locale: en
 feature-img: "assets/img/pexels/drink-water-pee-cover.png"
 thumbnail: "assets/img/pexels/drink-water-pee-cover.png"
@@ -10,6 +10,7 @@ categories:
   - Productivity
 tags:
   - productivity
+  - health
   - habit
   - drink water
   - time management
@@ -34,23 +35,23 @@ a valuable consequence of this habit: going to the restroom frequently to pee.
 
 **What are you thinking right now?**
 
-1. "That's weird!
-2. "I hate going to WC too often"
+1. "That's weird!"
+2. "I hate going to restroom too often"
 3. "That's why I don't drink water"
 4. "That's not water, it's beer"
 5. "Ok, tell me more..."
 
 I usually drink between 3.5 and 4 liters of water during my working hours.
 Consequently, I go to the restroom 5~7 times during this period.
-You may think that this is a major productivity killer. In fact it is the
+You may think that this is a major productivity killer. In fact, it is the
 opposite for several reasons, especially if you know how to use it to your
 advantage. To this end, all you need is a bottle of water with the proper size
-to implement this cycle:
+to implement the following cycle:
 
 1. Fulfill the bottle with water
-2. Drink the whole bottle while working in a period
+2. Drink the whole bottle gradually while working in a period
 of time
-3. Go to the WC
+3. Go to the restroom
 4. Repeat
 
 I call this the **"drink water and pee"** routine.
@@ -64,7 +65,7 @@ to perform this cycle (between 500 ml and 1000 l). Here is mine:
 <img src="/assets/img/others/water-bottle.jpeg" alt="Bottle of the Bugse Zot beer fulfilled by water" width="500">
 
 Somehow, that beer bottle triggers something in my brain that makes me want
-to drink its contents, helping me achieve my 4 liters personal goal.
+to drink its contents, helping me achieve my 4 liters by day personal goal.
 By the way, what a great beer =)
 
 **How does this routine can improve my productivity?**
@@ -105,7 +106,7 @@ as **take a walk** into the office.
 
 To enable this routine, you need to manage your environment so that you can really
 be productive during the focus period by turning-off social media notifications and
-asking your colleagues to do not interrupt during this period. If they need to
+asking your colleagues to do not interrupt you during this period. If they need to
 talk to you, ask them to leave a message or an email that you can handle at the
 beginning of the next cycle.
 
@@ -142,8 +143,8 @@ regular working day as well as may vary from day-to-day. That's totally fine.
 When this routine becomes a habit, that cycle becomes so natural that you run
 it without even thinking about it, while still getting its benefits.
 
-Adopting new healthy habits such as drinking water can be hard and improving
-your health may not be enough to convince you to adopt
+Adopting new healthy habits such as drinking water can be hard and "improving
+your health" reason may not be enough to convince you to adopt
 them (otherwise, you would have already adopted them). The same can be said
 for productivity techniques, such as Pomodoro. However,
 associating health habits with practical productivity gains can be effective
